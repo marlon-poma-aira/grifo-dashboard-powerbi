@@ -10,7 +10,8 @@ Dashboard interactivo de cuatro páginas que responde las preguntas que se hace 
 
 | Ventas y márgenes | Inventario y mermas |
 |---|---|
-| ![Ventas y márgenes](images/01_ventas_margenes.png) | ![Inventario y mermas](images/02_inventario_mermas.png) |
+| <img width="893" height="500" alt="image" src="https://github.com/user-attachments/assets/935f0b2d-1c96-4256-83b1-970d607a5cf5" />
+| ![Inventario y mermas](images/02_inventario_mermas.png) |
 
 | Operación y caja | Crédito y cobranza |
 |---|---|
