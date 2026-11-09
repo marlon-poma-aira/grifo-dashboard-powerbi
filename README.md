@@ -11,11 +11,14 @@ Dashboard interactivo de cuatro páginas que responde las preguntas que se hace 
 | Ventas y márgenes | Inventario y mermas |
 |---|---|
 | <img width="893" height="500" alt="image" src="https://github.com/user-attachments/assets/935f0b2d-1c96-4256-83b1-970d607a5cf5" />
-| ![Inventario y mermas](images/02_inventario_mermas.png) |
+| <img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/991511d0-bc03-494a-ad68-302221fa57c2" />
+ |
 
 | Operación y caja | Crédito y cobranza |
 |---|---|
-| ![Operación y caja](images/03_operacion_caja.png) | ![Crédito y cobranza](images/04_credito_cobranza.png) |
+| <img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/c350496e-5d17-4bf1-8519-527fc7597b14" />
+ | <img width="888" height="502" alt="image" src="https://github.com/user-attachments/assets/aaac4b1e-c41b-4892-b2d9-4e9739072f61" />
+ |
 
 ## Hallazgos principales (datos simulados, julio 2025 – septiembre 2026)
 
